@@ -1,1 +1,1 @@
-# TelecomChurnMLProject
+Machine Learning Project/Experient doing a "churn" analysis for a telecom company. A full explanation of the data and problem as well as results and interpretation is included in a markdown cell within the Jupyter Notebook file.
